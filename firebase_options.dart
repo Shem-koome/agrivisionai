@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAhQpgAeLqJfkbhrH5Sn_ICfOIrV13rdEk',
+    apiKey: 'AIzaSyAhQpgAeLqJfkbh###n_ICfOIrV13rdEk',
     appId: '1:568690091284:web:52e9748d1640a788ed4e01',
     messagingSenderId: '568690091284',
     projectId: 'agri-visionai',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBT9WlR2TV1Nsq93egHTGjP2GUxuPn1K0I',
+    apiKey: 'AIzaSyBT9WlR####sq93egHTGjP2GUxuPn1K0I',
     appId: '1:568690091284:android:2afb540f2b0edcd1ed4e01',
     messagingSenderId: '568690091284',
     projectId: 'agri-visionai',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCfUV1Tzu-8rci523VAJFGy3r4aMpHGLOk',
+    apiKey: 'AIzaSyCfU######-8rci523VAJFGy3r4aMpHGLOk',
     appId: '1:568690091284:ios:945cf72abbaee2d1ed4e01',
     messagingSenderId: '568690091284',
     projectId: 'agri-visionai',
